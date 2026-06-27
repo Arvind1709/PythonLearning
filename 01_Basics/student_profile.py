@@ -1,0 +1,13 @@
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+city = input("Enter your city: ")
+profession = input("Enter your Profession: ")
+favoriteProgrammingLanguage = input("Favorite Programming Language :")
+
+print()
+print("===== Student Information =====")
+print(f"Name : {name}")
+print(f"Age  : {age}")
+print(f"City : {city}")
+print(f"Profession  : {profession}")
+print(f"Favorite Programming Language  : {favoriteProgrammingLanguage}")
